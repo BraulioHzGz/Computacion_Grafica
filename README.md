@@ -1,12 +1,12 @@
-# Lab. de Computacion Grafica
+# Lab. de Computación Gráfica
 
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\n
-FACULTAD DE INGENIERÍA
-DIVISIÓN DE INGENIERÍA ELÉCTRICA (DIE)
+**UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO  
+FACULTAD DE INGENIERÍA  
+DIVISIÓN DE INGENIERÍA ELÉCTRICA (DIE)**  
 
-## Laboratorio de Computación Gráfica e Interacción Humano Computadora ##
+Laboratorio de Computación Gráfica e Interacción Humano Computadora
 
-Hernández González Braulio - 318171342
-Grupo de laboratorio: 11
-Grupo de teoría:      02
-Semestre:             2024 - 2
+Hernández González Braulio - 318171342  
+Grupo de laboratorio: 11  
+Grupo de teoría:      02  
+Semestre:             2024 - 2  
